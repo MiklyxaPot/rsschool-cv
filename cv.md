@@ -1,6 +1,6 @@
-#Mikhail Potapov
+# Mikhail Potapov
 ------------------------------
-###Junior Frontend Developer
+### Junior Frontend Developer
 -------------------------------
 Contact information:
 
